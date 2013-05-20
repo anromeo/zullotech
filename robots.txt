@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://anromeo.github.io/zullotech/sitemap.xml 
